@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer with expertise in modern web development technologies. I specialize in creating responsive, performant, and user-friendly applications using cutting-edge tools and frameworks.
+I'm a passionate full-stack developer with expertise in modern web development tools and technologies. I specialize in creating responsive, performant, and user-friendly applications using cutting-edge tools and frameworks.
 
 ## 🛠️ Tech Stack & Expertise
 
