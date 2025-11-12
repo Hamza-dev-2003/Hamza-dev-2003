@@ -1,4 +1,6 @@
-# 👋 Hello! I'm Muhammad Hamza
+
+<div align="center">
+# 👋 Hello! I'm Muhammad Hamza </div>
 ## 🚀 Full-Stack Web Developer | MERN & Laravel Ecosystem Expert
 
 <div align="center">
@@ -7,7 +9,7 @@
   
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
@@ -68,26 +70,11 @@ I apply best practices to ensure projects are professional, maintainable, and al
 
 ---
 
-## 📊 My GitHub Profile Activity
-
-*Showcasing active contributions and engagement.*
-
-<div align="center">
-  
-[![Muhammad Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vue&hide_border=true&count_private=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vue&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I am actively seeking new opportunities and open to collaborating on innovative projects.
 
-* **[LinkedIn Profile](LINK_TO_YOUR_LINKEDIN)**
-* **[Portfolio/Personal Website](LINK_TO_YOUR_PORTFOLIO)**
-* **Email: YOUR_EMAIL@example.com**
+* **[Portfolio Website](http://muhammadhamza1.netlify.app)**
+* **Email: hamzadev2003@gmail.com**
 
 ---
