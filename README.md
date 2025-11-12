@@ -1,5 +1,5 @@
 <div align="center">
-#👋 Hello! I'm Muhammad Hamza
+👋 Hello! I'm Muhammad Hamza
   
 ## 🚀 Full-Stack Web Developer | MERN & Laravel Ecosystem Expert - **Crafting High-Performance, Scalable Digital Experiences**
 
