@@ -15,8 +15,6 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ui.shadcn.com/)
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![Motion.js](https://img.shields.io/badge/Motion.js-000000?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
@@ -50,7 +48,7 @@ My technical skills are comprehensive, covering all layers of modern web develop
 | **React** | Modern component-based architecture. | State Management (Context API, Redux/Zustand), Hooks, Performance. |
 | **JavaScript (ES6+)** | Core language proficiency. | Asynchronous programming, Functional Components, Tooling. |
 | **Tailwind CSS** | Utility-first framework. | Rapid UI Development, Custom Theming, Responsive Design. |
-| **shadcn/UI** | Modern, accessible component library. | Reusable UI Patterns, Customization. |
+| **Shadcn UI** | Modern, accessible component library. | Reusable UI Patterns, Customization. |
 | **Material UI** | Comprehensive React component library. | Extensive component library and Standardized UI. |
 | **Motion.js** | Library for creating production-ready animations. | Seamless animations and Scroll-triggered effects. |
 | **Bootstrap** | Component library for prototyping. | Responsive Grids, Quick Layouts, Legacy Projects. |
