@@ -28,8 +28,6 @@
 
 ---
 
-
-</br>
 ## 👨‍💻 About Muhammad Hamza
 
 I am a dedicated **Full-Stack Developer** specializing in delivering robust, modern, and high-quality web applications. My dual-stack proficiency in the **MERN** ecosystem (MongoDB, Express, React, Node.js) and the **Laravel/PHP** environment allows me to manage the entire application lifecycle, from intuitive front-end interfaces to secure, scalable back-end services.
