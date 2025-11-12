@@ -1,10 +1,8 @@
-
-# 👋 Hello! I'm Muhammad Hamza
-## 🚀 Full-Stack Web Developer | MERN & Laravel Ecosystem Expert
-
 <div align="center">
+# 👋 Hello! I'm Muhammad Hamza
   
-**Crafting High-Performance, Scalable Digital Experiences**
+## 🚀 Full-Stack Web Developer | MERN & Laravel Ecosystem Expert  **Crafting High-Performance, Scalable Digital Experiences**
+
 
 <div align="center">
   
