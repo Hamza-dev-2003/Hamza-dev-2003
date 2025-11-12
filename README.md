@@ -50,7 +50,9 @@ My technical skills are comprehensive, covering all layers of modern web develop
 | **React** | Modern component-based architecture. | State Management (Context API, Redux/Zustand), Hooks, Performance. |
 | **JavaScript (ES6+)** | Core language proficiency. | Asynchronous programming, Functional Components, Tooling. |
 | **Tailwind CSS** | Utility-first framework. | Rapid UI Development, Custom Theming, Responsive Design. |
-| **shadcn/ui** | Modern, accessible component library. | Reusable UI Patterns, Customization. |
+| **shadcn/UI** | Modern, accessible component library. | Reusable UI Patterns, Customization. |
+| **Material UI** | Comprehensive React component library. | Extensive component library and Standardized UI. |
+| **Motion.js** | Library for creating production-ready animations. | Seamless animations and Scroll-triggered effects. |
 | **Bootstrap** | Component library for prototyping. | Responsive Grids, Quick Layouts, Legacy Projects. |
 | **HTML & CSS** | Foundational web technologies. | Semantic Markup, Accessibility, Advanced Animations. |
 
