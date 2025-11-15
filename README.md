@@ -84,6 +84,7 @@ I apply best practices to ensure projects are professional, maintainable, and al
 I am actively seeking new opportunities and open to collaborating on innovative projects.
 
 * **[Portfolio Website](http://muhammadhamza1.netlify.app)**
+* **[Email: ](hamzadev2003@gmail.com)**
 * **Email: hamzadev2003@gmail.com**
 
 ---
