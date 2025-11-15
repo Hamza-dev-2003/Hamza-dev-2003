@@ -1,7 +1,7 @@
 <div align="center">
 👋 Hello! I'm Muhammad Hamza
   
-## 🚀 Full-Stack Web Developer | MERN & Laravel Ecosystem Expert - **Crafting High-Performance, Scalable Digital Experiences**
+## Full-Stack Web Developer | MERN & Laravel Ecosystem Expert - **Crafting High-Performance, Scalable Digital Experiences**
 
 
 
@@ -26,23 +26,23 @@
 
 ---
 
-## 👨‍💻 About Muhammad Hamza
+## About Muhammad Hamza
 
 I am a dedicated **Full-Stack Developer** specializing in delivering robust, modern, and high-quality web applications. My dual-stack proficiency in the **MERN** ecosystem (MongoDB, Express, React, Node.js) and the **Laravel/PHP** environment allows me to manage the entire application lifecycle, from intuitive front-end interfaces to secure, scalable back-end services.
 
 My primary focus is on **clean code architecture**, **performance optimization**, and creating **outstanding user experiences**.
 
-- 💡 **Specialization:** Building scalable APIs and component-based user interfaces.
-- 🎯 **Commitment:** Utilizing a mobile-first, responsive design approach.
-- 🌐 **Collaboration:** Experienced in Agile methodology and Git/GitHub version control.
+- **Specialization:** Building scalable APIs and component-based user interfaces.
+- **Commitment:** Utilizing a mobile-first, responsive design approach.
+- **Collaboration:** Experienced in Agile methodology and Git/GitHub version control.
 
 ---
 
-## 🛠️ Core Technology Stack & Expertise
+## Core Technology Stack & Expertise
 
 My technical skills are comprehensive, covering all layers of modern web development.
 
-### 🌐 Frontend Development
+### Frontend Development
 | Technology | Description | Key Focus Areas |
 | :--- | :--- | :--- |
 | **React** | Modern component-based architecture. | State Management (Context API, Redux/Zustand), Hooks, Performance. |
@@ -54,7 +54,7 @@ My technical skills are comprehensive, covering all layers of modern web develop
 | **Bootstrap** | Component library for prototyping. | Responsive Grids, Quick Layouts, Legacy Projects. |
 | **HTML & CSS** | Foundational web technologies. | Semantic Markup, Accessibility, Advanced Animations. |
 
-### ⚙️ Backend Development & Database
+### Backend Development & Database
 | Technology | Description | Key Focus Areas |
 | :--- | :--- | :--- |
 | **Node.js & Express** | JavaScript runtime and minimalist framework. | High-performance server-side logic, Middleware, RESTful APIs. |
@@ -63,7 +63,7 @@ My technical skills are comprehensive, covering all layers of modern web develop
 
 ---
 
-## 🏆 Development Principles & Specializations
+## Development Principles & Specializations
 
 I apply best practices to ensure projects are professional, maintainable, and aligned with industry standards.
 
@@ -79,7 +79,7 @@ I apply best practices to ensure projects are professional, maintainable, and al
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I am actively seeking new opportunities and open to collaborating on innovative projects.
 
