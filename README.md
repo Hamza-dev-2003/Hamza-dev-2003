@@ -84,7 +84,7 @@ I apply best practices to ensure projects are professional, maintainable, and al
 I am actively seeking new opportunities and open to collaborating on innovative projects.
 
 
-* ** [LinkedIn](https://www.linkedin.com/in/mhamza9)
+* **[LinkedIn](https://www.linkedin.com/in/mhamza9)**
 * **[Portfolio Website](http://muhammadhamza1.netlify.app)**
 * **hamzadev2003@gmail.com**
 ---
